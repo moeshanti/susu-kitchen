@@ -1,0 +1,8 @@
+{
+  "name": "Susu's Kitchen",
+  "description": "A cinematic, AI-powered recipe app where Susu allows the family to cook her masterpieces. Features voice-to-recipe, AI photography, cinematic video intros, and hands-free cooking mode.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
